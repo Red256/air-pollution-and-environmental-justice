@@ -1,4 +1,4 @@
-# Environmental Justice & Air Pollution Research  
+# Air Pollution & Environmental Justice Research  
 **Investigating spatial disparities in pollution exposure near California’s major ports**
 
 ## Overview
