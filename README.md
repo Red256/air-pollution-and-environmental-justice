@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project explores whether low-income and minority communities in California experience disproportionately high exposure to harmful air pollutants—particularly fine particulate matter (PM2.5)—due to proximity to major ports. We combine geospatial analysis, statistical modeling, and open environmental data to better understand the intersection of environmental justice and public health.
+This project explores whether low-income and minority communities in California experience disproportionately high exposure to harmful air pollutants, particularly fine particulate matter (PM2.5), due to proximity to major ports. We combine geospatial analysis, statistical modeling, and open environmental data to better understand the intersection of environmental justice and public health.
 
 ## Research Questions
 
